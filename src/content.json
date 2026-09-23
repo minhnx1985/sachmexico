@@ -117,8 +117,8 @@
       "titleOriginal": "Los nombres del aire",
       "titleViStatus": "official",
       "status": "historical",
-      "cover": "/assets/los-nombres-del-aire.webp",
-      "edition": "Bìa ấn bản tiếng Tây Ban Nha",
+      "cover": "/assets/ten-cua-khi-troi.webp",
+      "edition": "Bìa ấn bản tiếng Việt",
       "translator": null,
       "publisher": null,
       "yearVi": null,
@@ -126,7 +126,8 @@
       "description": [
         "Trong thành phố cảng Mogador, Fatma nhìn ra thế giới từ khung cửa và dần nhận ra những chuyển động khó gọi tên của ham muốn. Thành phố quanh cô hóa thành mê lộ của dục vọng, ký ức, âm nhạc và hình ảnh."
       ],
-      "editorialReviewRequired": false
+      "editorialReviewRequired": false,
+      "coverSourceLocal": "TEN CUA KHI TROI.jpg"
     },
     {
       "slug": "doi-moi-cua-nuoc",
@@ -135,8 +136,8 @@
       "titleOriginal": "En los labios del agua",
       "titleViStatus": "official",
       "status": "historical",
-      "cover": null,
-      "edition": "Chưa có bìa ấn bản đối chiếu",
+      "cover": "/assets/doi-moi-cua-nuoc.webp",
+      "edition": "Bìa ấn bản tiếng Việt",
       "translator": null,
       "publisher": null,
       "yearVi": null,
@@ -144,7 +145,8 @@
       "description": [
         "Một người Mexico gốc Arab lần theo dấu vết của một nhà thư pháp cổ và những văn bản thất lạc về ham muốn. Những cuộc kiếm tìm của anh dẫn qua giấc mơ, những người phụ nữ và một thế giới nơi cơ thể trở thành la bàn."
       ],
-      "editorialReviewRequired": false
+      "editorialReviewRequired": false,
+      "coverSourceLocal": "DOI MOI CUA NUOC.jpg"
     },
     {
       "slug": "lan-da-cua-dat",
@@ -153,8 +155,8 @@
       "titleOriginal": "Los jardines secretos de Mogador",
       "titleViStatus": "official",
       "status": "historical",
-      "cover": "/assets/los-jardines-secretos-de-mogador.webp",
-      "edition": "Bìa ấn bản tiếng Tây Ban Nha",
+      "cover": "/assets/lan-da-cua-dat.webp",
+      "edition": "Bìa ấn bản tiếng Việt",
       "translator": null,
       "publisher": null,
       "yearVi": null,
@@ -162,7 +164,8 @@
       "description": [
         "Trong thế giới Mogador, ham muốn lần này mang hình hài của đất, khu vườn, hương thơm và xúc giác. Người kể chuyện lần theo những khu vườn bí mật của thành phố, nơi mỗi cảnh vật mở ra một cách khác để gọi tên điều con người khao khát."
       ],
-      "editorialReviewRequired": true
+      "editorialReviewRequired": true,
+      "coverSourceLocal": "Lan da cua dat.jpg"
     },
     {
       "slug": "nang-aura",

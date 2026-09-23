@@ -17,3 +17,7 @@ All 11 supplied reference slots were materialized, decoded with Pillow, visually
 - Đôi môi của nước: no original binary supplied; publisher product pages located, but retrieval returned 403. Uses the Blueprint-approved typographic title treatment, explicitly labeled as not a verified cover. No fabricated cover or unrelated image.
 
 Source URLs, credits, rights states, local paths and checksums are recorded in the asset manifests. The source archive supplied by the user is retained intact.
+
+## User-supplied Vietnamese covers — update
+
+The user supplied `TEN CUA KHI TROI.jpg`, `DOI MOI CUA NUOC.jpg`, and `Lan da cua dat.jpg`. All three were visually matched to their titles and decoded successfully. Local optimized WebP copies now replace the two Spanish references and the typographic fallback everywhere, including hero, author section, gallery, press thumbnail and dialogs. Originals are preserved at project root. See `source-assets/supplied-covers.json` for dimensions and checksums. Earlier replacement notes above describe the initial build; the Spanish assets are retained only as source history. The supplied front cover confirms the Làn da của đất subtitle “Những khu vườn bí mật thành Mogador”; the synopsis review flag remains pending physical-book/back-cover verification.

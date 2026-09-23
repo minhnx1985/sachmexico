@@ -33,7 +33,7 @@ npm run preview
 ## Publication handoff
 
 1. Clear portrait and cover rights with the owners. The existing metadata deliberately retains `reference_only_pending_clearance`, including a public-domain candidate whose attribution is documented.
-2. Supply the three Vietnamese Alberto cover originals; the working build uses two explicitly labeled Spanish cover references and a typographic title treatment for **Đôi môi của nước**.
+2. The three Vietnamese Alberto covers supplied by the user are now integrated; provenance and checksums are in `source-assets/supplied-covers.json`.
 3. Check **Làn da của đất** copy against the Nhã Nam physical edition/back cover. Its `editorialReviewRequired` field remains true.
 4. Keep **Liliana’s Invincible Summer** as the public title until Nhã Nam officially confirms Vietnamese metadata. No preorder link exists.
 5. Set the real domain/canonical and social-image URL only when a publication destination exists. Current title, description, Open Graph text, Vietnamese language, and favicon are included.

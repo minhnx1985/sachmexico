@@ -23,7 +23,7 @@ Five real local portrait assets: Juan Villoro, Octavio Paz, Alberto Ruy-Sánchez
 
 ## BOOKS
 
-- Six covers materialized; seventh title represented with the approved typographic fallback.
+- Seven covers materialized: six Vietnamese covers and the English Liliana reference cover. The three Alberto covers were supplied by the user and visually validated.
 - Verified purchase links: [Cuốn sách Hoang dã](https://nhanam.vn/cuon-sach-hoang-da) and [Mê cung cô độc](https://nhanam.vn/me-cung-co-doc).
 - Four historical titles have no purchase links or stock claims.
 - **Liliana’s Invincible Summer** is clearly forthcoming, with an English reference cover and no preorder link. Working Vietnamese title is not rendered.
@@ -35,7 +35,7 @@ Five real local portrait assets: Juan Villoro, Octavio Paz, Alberto Ruy-Sánchez
 - All 11 reference slots have validated local image files, dimensions and SHA-256 hashes.
 - All display images are local optimized WebP files; combined public assets are approximately 716 KB.
 - Reference rights remain pending. No unresolved display downloads or hotlinked fallback images.
-- **Đôi môi của nước** remains without a verified cover; two Alberto covers are clearly labeled Spanish references. Vietnamese archive originals remain desirable for publication.
+- All three Alberto titles now use user-supplied Vietnamese covers; the former Spanish references and typographic fallback are no longer displayed.
 
 ## PRESS LIBRARY
 
@@ -70,7 +70,7 @@ Thumbnails reuse local author portraits or covers; their illustrative status is 
 - Hero long-form approved copy appears immediately after the hero, preserving a compact reading entry; hero uses a short editorial invitation.
 - Native system serif/sans fonts keep Vietnamese rendering self-contained without font-service dependencies.
 - No canonical URL or social image invented for an unpublished local build.
-- Before public release: clear image rights, obtain archive covers if available, check Làn da của đất against the physical book, and confirm any future Vietnamese title metadata.
+- Before public release: clear image rights, check Làn da của đất against the physical book, and confirm any future Vietnamese title metadata.
 
 ## GIT
 
