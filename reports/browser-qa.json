@@ -1,0 +1,105 @@
+{
+  "responsive": [
+    {
+      "authors": 5,
+      "books": 7,
+      "clientWidth": 345,
+      "height": 800,
+      "overflow": false,
+      "scrollWidth": 345,
+      "width": 360
+    },
+    {
+      "authors": 5,
+      "books": 7,
+      "clientWidth": 375,
+      "height": 844,
+      "overflow": false,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "authors": 5,
+      "books": 7,
+      "clientWidth": 753,
+      "height": 1024,
+      "overflow": false,
+      "scrollWidth": 753,
+      "width": 768
+    },
+    {
+      "authors": 5,
+      "books": 7,
+      "clientWidth": 1009,
+      "height": 768,
+      "overflow": false,
+      "scrollWidth": 1009,
+      "width": 1024
+    },
+    {
+      "authors": 5,
+      "books": 7,
+      "clientWidth": 1425,
+      "height": 1000,
+      "overflow": false,
+      "scrollWidth": 1425,
+      "width": 1440
+    }
+  ],
+  "dialogs": [
+    {
+      "title": "Cuốn sách Hoang dã",
+      "visible": true,
+      "purchaseLinks": 1
+    },
+    {
+      "title": "Mê cung cô độc",
+      "visible": true,
+      "purchaseLinks": 1
+    },
+    {
+      "title": "Tên của khí trời",
+      "visible": true,
+      "purchaseLinks": 0
+    },
+    {
+      "title": "Đôi môi của nước",
+      "visible": true,
+      "purchaseLinks": 0
+    },
+    {
+      "title": "Làn da của đất",
+      "visible": true,
+      "purchaseLinks": 0
+    },
+    {
+      "title": "Nàng Aura",
+      "visible": true,
+      "purchaseLinks": 0
+    },
+    {
+      "title": "Liliana’s Invincible Summer",
+      "visible": true,
+      "purchaseLinks": 0
+    }
+  ],
+  "filters": [
+    {
+      "label": "Đang phát hành",
+      "visible": 2
+    },
+    {
+      "label": "Đã giới thiệu",
+      "visible": 4
+    },
+    {
+      "label": "Sắp ra mắt",
+      "visible": 1
+    },
+    {
+      "label": "Tất cả 07",
+      "visible": 7
+    }
+  ],
+  "keyboard": "Enter opens; Shift+Tab wraps; Tab wraps; Escape closes and restores focus"
+}

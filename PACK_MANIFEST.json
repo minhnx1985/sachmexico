@@ -1,0 +1,12 @@
+{
+  "name": "mexico-books-hanoi-2026-codex-pack",
+  "agent": "OpenAI Codex",
+  "mode": "autonomous-one-shot",
+  "concept": "Mexico qua những trang sách",
+  "authors": 5,
+  "books": 7,
+  "local_brand_assets": 2,
+  "remote_reference_assets": 11,
+  "root_instruction": "AGENTS.md",
+  "start_prompt": "CODEX_START_PROMPT.txt"
+}

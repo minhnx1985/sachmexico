@@ -1,0 +1,108 @@
+[
+  {
+    "id": "portrait-juan-villoro",
+    "type": "portrait",
+    "target": "source-assets/reference/juan-villoro.jpg",
+    "download_url": "https://static.wixstatic.com/media/71ddde_c80e09e9922546499b49b0f71ee9252b~mv2.jpeg",
+    "source_page": "https://www.jvilloro.com/",
+    "rights_status": "reference_only_pending_clearance",
+    "original_download_url": "https://imagenes2.eltiempo.com/files/image_1200_675/uploads/2019/07/06/5d2128ef515b7.jpeg",
+    "credit_note": "Official author website; photographer unconfirmed"
+  },
+  {
+    "id": "portrait-octavio-paz",
+    "type": "portrait",
+    "target": "source-assets/reference/octavio-paz.jpg",
+    "download_url": "https://www.gaceta.unam.mx/index/wp-content/uploads/2019/03/190329-Octavio-Paz.jpg",
+    "source_page": "https://www.gaceta.unam.mx/la-voz-temprana-de-octavio-paz/",
+    "rights_status": "reference_only_pending_clearance"
+  },
+  {
+    "id": "portrait-alberto-ruy-sanchez",
+    "type": "portrait",
+    "target": "source-assets/reference/alberto-ruy-sanchez.jpg",
+    "download_url": "https://static.wixstatic.com/media/a8c1ec_b22533972b894ce5a6110bd51bb786da~mv2.jpg",
+    "source_page": "https://www.albertoruysanchez.com/",
+    "rights_status": "reference_only_pending_clearance",
+    "original_download_url": "https://cdn.milenio.com/uploads/media/2019/12/01/alberto-ruy-sanchez-ciudad-mexico.jpg",
+    "credit_note": "Nina Subin"
+  },
+  {
+    "id": "portrait-carlos-fuentes",
+    "type": "portrait",
+    "target": "source-assets/reference/carlos-fuentes.png",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Carlos_Fuentes.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Carlos_Fuentes.jpg",
+    "rights_status": "reference_only_pending_clearance",
+    "original_download_url": "https://casacarlini.com/cdn/shop/articles/Carlos-Fuentes_enhanced.png?v=1779722733&width=3840",
+    "credit_note": "Gustavo Benítez / Presidencia de la República; Commons records public-domain release"
+  },
+  {
+    "id": "portrait-cristina-rivera-garza",
+    "type": "portrait",
+    "target": "source-assets/reference/cristina-rivera-garza.jpg",
+    "download_url": "https://editions-globe.com/wp-content/uploads/2023/06/RIVERA-GARZA_CRISTINA_Michalski-picture-1170x1483.jpg",
+    "source_page": "https://editions-globe.com/rivera-garza-cristina/",
+    "rights_status": "reference_only_pending_clearance",
+    "credit_note": "Source page indicates editorial author portrait; verify photographer credit before production use."
+  },
+  {
+    "id": "cover-cuon-sach-hoang-da",
+    "type": "book-cover",
+    "target": "source-assets/reference/cuon-sach-hoang-da.jpg",
+    "download_url": "https://bizweb.dktcdn.net/thumb/grande/100/363/455/products/cuon-sach-hoang-da-01.jpg?v=1740449676720",
+    "source_page": "https://nhanam.vn/cuon-sach-hoang-da",
+    "rights_status": "reference_only_pending_clearance",
+    "note": "Use only as temporary reference binary; replace with Nhã Nam original when available.",
+    "original_download_url": "https://static3.taipdf.com/images/cuon-sach-hoang-da-2.jpg",
+    "credit_note": "Nhã Nam product image"
+  },
+  {
+    "id": "cover-me-cung-co-doc",
+    "type": "book-cover",
+    "target": "source-assets/reference/me-cung-co-doc.jpg",
+    "download_url": "https://bizweb.dktcdn.net/thumb/grande/100/363/455/products/me-cung-co-doc-01.jpg?v=1762331909423",
+    "source_page": "https://nhanam.vn/me-cung-co-doc",
+    "rights_status": "reference_only_pending_clearance",
+    "note": "Use only as temporary reference binary; replace with Nhã Nam original when available.",
+    "original_download_url": "https://static3.tusach.vn/images/me-cung-co-doc-1.jpg",
+    "credit_note": "Nhã Nam product image"
+  },
+  {
+    "id": "cover-nang-aura",
+    "type": "book-cover",
+    "target": "source-assets/reference/nang-aura.jpg",
+    "download_url": "https://cdn1.fahasa.com/media/flashmagazine/images/page_images/nang_aura/2020_09_17_14_57_08_1-390x510.jpg",
+    "source_page": "https://www.fahasa.com/nang-aura.html",
+    "rights_status": "reference_only_pending_clearance"
+  },
+  {
+    "id": "cover-liliana",
+    "type": "book-cover",
+    "target": "source-assets/reference/liliana-invincible-summer.jpg",
+    "download_url": "https://images3.penguinrandomhouse.com/cover/9780593244111?height=800",
+    "source_page": "https://www.penguinrandomhouse.com/books/678302/lilianas-invincible-summer-pulitzer-prize-winner-by-cristina-rivera-garza/",
+    "rights_status": "reference_only_pending_clearance",
+    "credit_note": "English edition / Hogarth"
+  },
+  {
+    "id": "cover-los-nombres-del-aire",
+    "type": "book-cover",
+    "target": "source-assets/reference/los-nombres-del-aire.jpg",
+    "download_url": "https://images3.penguinrandomhouse.com/cover/9798890986764?height=800",
+    "source_page": "https://www.penguinrandomhouse.com/authors/2270494/alberto-ruy-sanchez/",
+    "rights_status": "reference_only_pending_clearance",
+    "note": "Spanish-edition visual reference; replace with Vietnamese Nhã Nam archive cover when available.",
+    "credit_note": "Spanish edition / Alfaguara"
+  },
+  {
+    "id": "cover-los-jardines-secretos",
+    "type": "book-cover",
+    "target": "source-assets/reference/los-jardines-secretos-de-mogador.jpg",
+    "download_url": "https://images4.penguinrandomhouse.com/cover/9798890986771?height=800",
+    "source_page": "https://www.penguinrandomhouse.com/authors/2270494/alberto-ruy-sanchez/",
+    "rights_status": "reference_only_pending_clearance",
+    "note": "Spanish-edition visual reference for Làn da của đất; replace with Vietnamese Nhã Nam archive cover when available.",
+    "credit_note": "Spanish edition / Alfaguara"
+  }
+]

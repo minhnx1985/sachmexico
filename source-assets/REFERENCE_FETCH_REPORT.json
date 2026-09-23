@@ -1,0 +1,134 @@
+[
+  {
+    "id": "portrait-juan-villoro",
+    "status": "validated",
+    "target": "source-assets/reference/juan-villoro.jpg",
+    "dimensions": [
+      1381,
+      1027
+    ],
+    "sha256": "9b1d6159be187b80647f826c87116e3305466308ca965c5ae287bd880dbe61c0",
+    "source": "https://www.jvilloro.com/",
+    "rights": "reference_only_pending_clearance"
+  },
+  {
+    "id": "portrait-octavio-paz",
+    "status": "validated",
+    "target": "source-assets/reference/octavio-paz.jpg",
+    "dimensions": [
+      990,
+      660
+    ],
+    "sha256": "39d601fc78628429b44e18d11fd99b1c213c208b7a23abefd240a87ddd84d1e4",
+    "source": "https://www.gaceta.unam.mx/la-voz-temprana-de-octavio-paz/",
+    "rights": "reference_only_pending_clearance"
+  },
+  {
+    "id": "portrait-alberto-ruy-sanchez",
+    "status": "validated",
+    "target": "source-assets/reference/alberto-ruy-sanchez.jpg",
+    "dimensions": [
+      1200,
+      1575
+    ],
+    "sha256": "ca46cc084cbd190d6ff5c6ed091b720973cd1d37bc4288c57c5ed1b61e953da6",
+    "source": "https://www.albertoruysanchez.com/",
+    "rights": "reference_only_pending_clearance"
+  },
+  {
+    "id": "portrait-carlos-fuentes",
+    "status": "validated",
+    "target": "source-assets/reference/carlos-fuentes.png",
+    "dimensions": [
+      281,
+      402
+    ],
+    "sha256": "dd5e9c4816bd070940ca594f39527db0baffec781bd432d8aa9b9dc357a2eabd",
+    "source": "https://commons.wikimedia.org/wiki/File:Carlos_Fuentes.jpg",
+    "rights": "reference_only_pending_clearance"
+  },
+  {
+    "id": "portrait-cristina-rivera-garza",
+    "status": "validated",
+    "target": "source-assets/reference/cristina-rivera-garza.jpg",
+    "dimensions": [
+      1170,
+      1483
+    ],
+    "sha256": "f84da36dd5275d35b63f3511f587f36854b8d74d853ab94550f31fea14b85e6d",
+    "source": "https://editions-globe.com/rivera-garza-cristina/",
+    "rights": "reference_only_pending_clearance"
+  },
+  {
+    "id": "cover-cuon-sach-hoang-da",
+    "status": "validated",
+    "target": "source-assets/reference/cuon-sach-hoang-da.jpg",
+    "dimensions": [
+      408,
+      600
+    ],
+    "sha256": "00a3d99e94cf876278e8d7561b5a61d929d5b5582bb78b01fcdb7269a9567479",
+    "source": "https://nhanam.vn/cuon-sach-hoang-da",
+    "rights": "reference_only_pending_clearance"
+  },
+  {
+    "id": "cover-me-cung-co-doc",
+    "status": "validated",
+    "target": "source-assets/reference/me-cung-co-doc.jpg",
+    "dimensions": [
+      401,
+      600
+    ],
+    "sha256": "9824611bb8b6c01eac3626a61e53479c36d879a9257263f0cb66b702e241fc1a",
+    "source": "https://nhanam.vn/me-cung-co-doc",
+    "rights": "reference_only_pending_clearance"
+  },
+  {
+    "id": "cover-nang-aura",
+    "status": "validated",
+    "target": "source-assets/reference/nang-aura.jpg",
+    "dimensions": [
+      800,
+      1169
+    ],
+    "sha256": "4e58229cb8c0ed330d2ab21c869037832c59760c85fa10d806179690edfaec33",
+    "source": "https://www.fahasa.com/nang-aura.html",
+    "rights": "reference_only_pending_clearance"
+  },
+  {
+    "id": "cover-liliana",
+    "status": "validated",
+    "target": "source-assets/reference/liliana-invincible-summer.jpg",
+    "dimensions": [
+      292,
+      450
+    ],
+    "sha256": "c86a596ca3c1ca12592443bbd9586beffd83f847883d0459dd4ce57860005005",
+    "source": "https://www.penguinrandomhouse.com/books/678302/lilianas-invincible-summer-pulitzer-prize-winner-by-cristina-rivera-garza/",
+    "rights": "reference_only_pending_clearance"
+  },
+  {
+    "id": "cover-los-nombres-del-aire",
+    "status": "validated",
+    "target": "source-assets/reference/los-nombres-del-aire.jpg",
+    "dimensions": [
+      296,
+      450
+    ],
+    "sha256": "d17e69b0de6b92e2e41c7152d109c595cc86492f90e99d6ad6048c1f93726e37",
+    "source": "https://www.penguinrandomhouse.com/authors/2270494/alberto-ruy-sanchez/",
+    "rights": "reference_only_pending_clearance"
+  },
+  {
+    "id": "cover-los-jardines-secretos",
+    "status": "validated",
+    "target": "source-assets/reference/los-jardines-secretos-de-mogador.jpg",
+    "dimensions": [
+      296,
+      450
+    ],
+    "sha256": "0fdb9fef20659f21dcccfadd230202e147455b13300988b29f331d124e87199e",
+    "source": "https://www.penguinrandomhouse.com/authors/2270494/alberto-ruy-sanchez/",
+    "rights": "reference_only_pending_clearance"
+  }
+]

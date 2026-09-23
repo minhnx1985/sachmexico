@@ -1,0 +1,275 @@
+{
+  "authors": [
+    {
+      "slug": "juan-villoro",
+      "name": "Juan Villoro",
+      "bio": "Juan Villoro sinh năm 1956 tại Mexico City, là nhà văn, nhà báo và một trong những tiếng nói đa dạng của văn chương Mexico đương đại. Ông viết tiểu thuyết, truyện ngắn, kịch, tiểu luận, văn học thiếu nhi và báo chí; tác phẩm của ông đã nhận nhiều giải thưởng văn học và báo chí tại Mexico, Tây Ban Nha và Mỹ Latin.",
+      "tagline": "Một nhà văn Mexico đưa người đọc vào thế giới nơi những cuốn sách cũng có đời sống riêng.",
+      "theme": "Sách & những cuộc phiêu lưu",
+      "door": "Bước vào thư viện",
+      "years": "Sinh năm 1956",
+      "credential": "Nhà văn · Nhà báo",
+      "portrait": "/assets/juan-villoro.webp",
+      "source": "https://www.jvilloro.com/",
+      "credit": "Official author website; photographer unconfirmed",
+      "motif": "books"
+    },
+    {
+      "slug": "octavio-paz",
+      "name": "Octavio Paz",
+      "bio": "Octavio Paz (1914–1998) là nhà thơ, tiểu luận gia và nhà ngoại giao Mexico, một trong những gương mặt lớn của văn học tiếng Tây Ban Nha thế kỷ XX. Ông phục vụ nhiều năm trong ngành ngoại giao Mexico, từng là Đại sứ Mexico tại Ấn Độ, và được trao Giải Nobel Văn chương năm 1990.",
+      "tagline": "Muốn nhìn Mexico từ bên trong, đây là một trong những cuốn sách phải đi qua.",
+      "theme": "Căn tính & nỗi cô độc",
+      "door": "Đi tìm căn tính",
+      "years": "1914–1998",
+      "credential": "Nobel Văn chương 1990",
+      "portrait": "/assets/octavio-paz.webp",
+      "source": "https://www.gaceta.unam.mx/la-voz-temprana-de-octavio-paz/",
+      "credit": "Nguồn ảnh: Gaceta UNAM; tác giả ảnh cần xác minh",
+      "motif": "maze"
+    },
+    {
+      "slug": "alberto-ruy-sanchez",
+      "name": "Alberto Ruy-Sánchez",
+      "bio": "Alberto Ruy-Sánchez sinh năm 1951 tại Mexico City, là nhà văn, nhà thơ, tiểu luận gia và biên tập viên. Ông cùng Margarita de Orellana điều hành dự án văn hóa Artes de México. Một phần đặc biệt trong sự nghiệp của ông là Quinteto de Mogador, chuỗi tác phẩm biến thành phố Mogador thành địa lý của ham muốn, cơ thể, ký ức và giác quan. Năm 2017, ông nhận Premio Nacional de Artes y Literatura của Mexico.",
+      "tagline": "Mogador: một địa lý của ham muốn, nơi cơ thể, ký ức và các nguyên tố cùng cất tiếng.",
+      "theme": "Ham muốn & giác quan",
+      "door": "Lắng nghe giác quan",
+      "years": "Sinh năm 1951",
+      "credential": "Premio Nacional de Artes y Literatura 2017",
+      "portrait": "/assets/alberto-ruy-sanchez.webp",
+      "source": "https://www.albertoruysanchez.com/",
+      "credit": "Nina Subin",
+      "motif": "mogador"
+    },
+    {
+      "slug": "carlos-fuentes",
+      "name": "Carlos Fuentes",
+      "bio": "Carlos Fuentes (1928–2012) là tiểu thuyết gia, tiểu luận gia và nhà ngoại giao Mexico, một trong những nhân vật trung tâm của Latin American Boom. Ông là thành viên El Colegio Nacional, từng làm Đại sứ Mexico tại Pháp và nhận Premio Cervantes năm 1987.",
+      "tagline": "Một căn nhà tối, một người phụ nữ trẻ, một quá khứ đang lặp lại chính nó.",
+      "theme": "Ký ức & những bóng hình",
+      "door": "Mở cánh cửa ký ức",
+      "years": "1928–2012",
+      "credential": "Premio Cervantes 1987",
+      "portrait": "/assets/carlos-fuentes.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:Carlos_Fuentes.jpg",
+      "credit": "Gustavo Benítez / Presidencia de la República; Commons records public-domain release",
+      "motif": "gothic"
+    },
+    {
+      "slug": "cristina-rivera-garza",
+      "name": "Cristina Rivera Garza",
+      "bio": "Cristina Rivera Garza là nhà văn, nhà thơ và học giả người Mexico, hiện giảng dạy tại University of Houston. Tác phẩm của bà thường đi qua ranh giới giữa tiểu thuyết, lịch sử, tư liệu, ký ức và thử nghiệm hình thức. Bà là MacArthur Fellow, hai lần nhận Premio Sor Juana Inés de la Cruz; năm 2024, Liliana’s Invincible Summer giành Pulitzer Prize for Memoir or Autobiography.",
+      "tagline": "Trả lại cho Liliana giọng nói, tình bạn và những dự định.",
+      "theme": "Lưu trữ & công lý",
+      "door": "Giữ lại một cuộc đời",
+      "years": "Văn chương đương đại",
+      "credential": "Pulitzer Prize 2024 · Memoir or Autobiography",
+      "portrait": "/assets/cristina-rivera-garza.webp",
+      "source": "https://editions-globe.com/rivera-garza-cristina/",
+      "credit": "Source page indicates editorial author portrait; verify photographer credit before production use.",
+      "motif": "archive"
+    }
+  ],
+  "books": [
+    {
+      "slug": "cuon-sach-hoang-da",
+      "authorSlug": "juan-villoro",
+      "title": "Cuốn sách Hoang dã",
+      "titleOriginal": "El libro salvaje",
+      "titleViStatus": "official",
+      "status": "active",
+      "cover": "/assets/cuon-sach-hoang-da.webp",
+      "edition": "Bìa ấn bản tiếng Việt",
+      "translator": "Lê Mạnh Thắng",
+      "publisher": "Nhã Nam / NXB Hội Nhà văn",
+      "yearVi": 2025,
+      "purchaseUrl": "https://nhanam.vn/cuon-sach-hoang-da",
+      "description": [
+        "Mùa hè của Juan, một cậu bé mười ba tuổi đang chật vật trước sự đổ vỡ của gia đình, bất ngờ biến thành một cuộc phiêu lưu khi cậu tới sống trong ngôi nhà chất đầy sách của bác Tito. Ở đó, sách có thể tự di chuyển, trốn tránh người đọc và dường như sở hữu một đời sống bí mật.",
+        "Juan rồi biết đến sự tồn tại của Cuốn sách Hoang dã: một cuốn sách chưa từng được đọc và chỉ xuất hiện trước đúng người mà nó lựa chọn. Cuộc tìm kiếm đưa cậu đi sâu vào một thế giới kỳ ảo của thư viện, tình bạn và việc đọc, đồng thời giúp cậu đối mặt với những thay đổi đang diễn ra trong chính cuộc đời mình."
+      ],
+      "editorialReviewRequired": false
+    },
+    {
+      "slug": "me-cung-co-doc",
+      "authorSlug": "octavio-paz",
+      "title": "Mê cung cô độc",
+      "titleOriginal": "El laberinto de la soledad",
+      "titleViStatus": "official",
+      "status": "active",
+      "cover": "/assets/me-cung-co-doc.webp",
+      "edition": "Bìa ấn bản tiếng Việt",
+      "translator": "Vũ Phi Long",
+      "publisher": "Nhã Nam / NXB Hội Nhà văn",
+      "yearVi": 2025,
+      "purchaseUrl": "https://nhanam.vn/me-cung-co-doc",
+      "description": [
+        "Mexico hình thành từ nhiều lớp lịch sử: thế giới bản địa, cuộc chinh phục của Tây Ban Nha, thời thuộc địa, cách mạng và quá trình hiện đại hóa. Octavio Paz đi vào những lớp lịch sử ấy để đặt một câu hỏi khó hơn: chúng đã để lại dấu vết gì trong cách người Mexico nhìn bản thân và nhìn thế giới?",
+        "Mê cung cô độc nằm giữa lịch sử văn hóa, triết học và tiểu luận văn chương. Paz viết về cô độc, mặt nạ, lễ hội, cái chết, cuộc chinh phục và cách mạng để truy tìm những mâu thuẫn cấu thành căn tính Mexico."
+      ],
+      "editorialReviewRequired": false
+    },
+    {
+      "slug": "ten-cua-khi-troi",
+      "authorSlug": "alberto-ruy-sanchez",
+      "title": "Tên của khí trời",
+      "titleOriginal": "Los nombres del aire",
+      "titleViStatus": "official",
+      "status": "historical",
+      "cover": "/assets/los-nombres-del-aire.webp",
+      "edition": "Bìa ấn bản tiếng Tây Ban Nha",
+      "translator": null,
+      "publisher": null,
+      "yearVi": null,
+      "purchaseUrl": null,
+      "description": [
+        "Trong thành phố cảng Mogador, Fatma nhìn ra thế giới từ khung cửa và dần nhận ra những chuyển động khó gọi tên của ham muốn. Thành phố quanh cô hóa thành mê lộ của dục vọng, ký ức, âm nhạc và hình ảnh."
+      ],
+      "editorialReviewRequired": false
+    },
+    {
+      "slug": "doi-moi-cua-nuoc",
+      "authorSlug": "alberto-ruy-sanchez",
+      "title": "Đôi môi của nước",
+      "titleOriginal": "En los labios del agua",
+      "titleViStatus": "official",
+      "status": "historical",
+      "cover": null,
+      "edition": "Chưa có bìa ấn bản đối chiếu",
+      "translator": null,
+      "publisher": null,
+      "yearVi": null,
+      "purchaseUrl": null,
+      "description": [
+        "Một người Mexico gốc Arab lần theo dấu vết của một nhà thư pháp cổ và những văn bản thất lạc về ham muốn. Những cuộc kiếm tìm của anh dẫn qua giấc mơ, những người phụ nữ và một thế giới nơi cơ thể trở thành la bàn."
+      ],
+      "editorialReviewRequired": false
+    },
+    {
+      "slug": "lan-da-cua-dat",
+      "authorSlug": "alberto-ruy-sanchez",
+      "title": "Làn da của đất",
+      "titleOriginal": "Los jardines secretos de Mogador",
+      "titleViStatus": "official",
+      "status": "historical",
+      "cover": "/assets/los-jardines-secretos-de-mogador.webp",
+      "edition": "Bìa ấn bản tiếng Tây Ban Nha",
+      "translator": null,
+      "publisher": null,
+      "yearVi": null,
+      "purchaseUrl": null,
+      "description": [
+        "Trong thế giới Mogador, ham muốn lần này mang hình hài của đất, khu vườn, hương thơm và xúc giác. Người kể chuyện lần theo những khu vườn bí mật của thành phố, nơi mỗi cảnh vật mở ra một cách khác để gọi tên điều con người khao khát."
+      ],
+      "editorialReviewRequired": true
+    },
+    {
+      "slug": "nang-aura",
+      "authorSlug": "carlos-fuentes",
+      "title": "Nàng Aura",
+      "titleOriginal": "Aura",
+      "titleViStatus": "official",
+      "status": "historical",
+      "cover": "/assets/nang-aura.webp",
+      "edition": "Bìa ấn bản tiếng Việt",
+      "translator": "Phạm Triệu Lập",
+      "publisher": "Nhã Nam / NXB Văn học",
+      "yearVi": 2016,
+      "purchaseUrl": null,
+      "description": [
+        "Felipe Montero, một sử gia trẻ đang cần việc, đọc được một mẩu quảng cáo dường như được viết riêng cho mình. Công việc đưa anh vào căn nhà tối của bà góa Consuelo, nơi anh được thuê biên soạn hồi ký của người chồng quá cố và gặp Aura, cô cháu gái trẻ đẹp sống cùng bà.",
+        "Từ đây, ranh giới giữa quá khứ và hiện tại, tuổi trẻ và tuổi già, dục vọng và ám ảnh dần mất đi. Viết ở ngôi thứ hai, Nàng Aura là một tiểu thuyết ngắn kỳ ảo mang màu sắc Gothic về ký ức, căn tính và sức mạnh dai dẳng của quá khứ."
+      ],
+      "editorialReviewRequired": false
+    },
+    {
+      "slug": "liliana",
+      "authorSlug": "cristina-rivera-garza",
+      "title": "Liliana’s Invincible Summer",
+      "titleOriginal": "A Sister’s Search for Justice",
+      "titleViStatus": "none",
+      "status": "coming-soon",
+      "cover": "/assets/liliana-invincible-summer.webp",
+      "edition": "Bìa ấn bản tiếng Anh",
+      "translator": null,
+      "publisher": null,
+      "yearVi": null,
+      "purchaseUrl": null,
+      "description": [
+        "Ngày 16 tháng 7 năm 1990, Liliana Rivera Garza, hai mươi tuổi, bị sát hại. Gần ba thập niên sau, chị gái cô, nhà văn Cristina Rivera Garza, trở lại Mexico City tìm hồ sơ vụ án và cố gắng ghép lại cuộc đời của Liliana.",
+        "Cuốn sách được dựng từ thư tay, sổ ghi chép, hồ sơ cảnh sát, ký ức gia đình và lời kể của những người từng yêu quý Liliana. Rivera Garza không biến em gái mình thành một “nạn nhân” trong một hồ sơ true crime; bà tìm cách trả lại cho Liliana giọng nói, tình bạn, dự định và tuổi trẻ đã bị cắt đứt.",
+        "Vừa là hồi ký về một người em gái, vừa là cuộc điều tra về bạo lực giới và hành trình đòi công lý, tác phẩm giành Pulitzer Prize 2024 ở hạng mục Memoir or Autobiography."
+      ],
+      "editorialReviewRequired": false
+    }
+  ],
+  "press": [
+    {
+      "title": "Phiêu lưu vào thế giới sách",
+      "outlet": "VnExpress",
+      "date": "21.05.2025",
+      "url": "https://vnexpress.net/phieu-luu-vao-the-gioi-sach-4887810.html",
+      "authorSlug": "juan-villoro",
+      "thumbnailStrategy": "book"
+    },
+    {
+      "title": "“Cuốn sách Hoang dã”, tấm lòng trong sáng quan trọng hơn biển tri thức",
+      "outlet": "Tuổi Trẻ",
+      "date": "09.05.2025",
+      "url": "https://tuoitre.vn/cuon-sach-hoang-da-tam-long-trong-sang-quan-trong-hon-bien-tri-thuc-20250509182404466.htm",
+      "authorSlug": "juan-villoro",
+      "thumbnailStrategy": "author"
+    },
+    {
+      "title": "Ra mắt bản dịch tiếng Việt tác phẩm nổi tiếng “Cuốn sách Hoang dã” của Juan Villoro",
+      "outlet": "Nhân Dân",
+      "date": "05.05.2025",
+      "url": "https://nhandan.vn/ra-mat-ban-dich-tieng-viet-tac-pham-noi-tieng-cuon-sach-hoang-da-cua-juan-villoro-post877318.html",
+      "authorSlug": "juan-villoro",
+      "thumbnailStrategy": "book"
+    },
+    {
+      "title": "Cuốn sách hoang dã – tác phẩm của nhà văn Juan Villoro xuất bản tại Việt Nam",
+      "outlet": "VOV",
+      "date": "06.05.2025",
+      "url": "https://vov.vn/van-hoa/cuon-sach-hoang-da-tac-pham-cua-nha-van-juan-villoro-xuat-ban-tai-viet-nam-post1197085.vov",
+      "authorSlug": "juan-villoro",
+      "thumbnailStrategy": "author"
+    },
+    {
+      "title": "Muốn thấu hiểu khát vọng của phụ nữ",
+      "outlet": "Tuổi Trẻ",
+      "date": "28.05.2012",
+      "url": "https://tuoitre.vn/muon-thau-hieu-khat-vong-cua-phu-nu-493773.htm",
+      "authorSlug": "alberto-ruy-sanchez",
+      "thumbnailStrategy": "author"
+    },
+    {
+      "title": "Giao lưu với nhà văn Mexico Alberto Ruy Sánchez",
+      "outlet": "VOV5",
+      "date": "2012",
+      "url": "https://vovworld.vn/vi-VN/tap-chi-van-nghe/giao-luu-voi-nha-van-mexico-alberto-ruy-sanchez-87190.vov",
+      "authorSlug": "alberto-ruy-sanchez",
+      "thumbnailStrategy": "author"
+    },
+    {
+      "title": "Tên của khí trời của Alberto Ruy Sánchez",
+      "outlet": "Thanh Niên",
+      "date": "09.08.2009",
+      "url": "https://thanhnien.vn/ten-cua-khi-troi-cua-alberto-ruy-sanchez-185185220.htm",
+      "authorSlug": "alberto-ruy-sanchez",
+      "thumbnailStrategy": "book"
+    }
+  ],
+  "hero": [
+    "Mexico trong văn chương không có một khuôn mặt duy nhất. Đó có thể là câu hỏi về căn tính dân tộc của Octavio Paz, căn nhà vừa quyến rũ vừa ma quái của Carlos Fuentes, thành phố của ham muốn và giác quan trong Alberto Ruy-Sánchez, một thư viện nơi sách tự chọn người đọc của Juan Villoro, hay cuộc kiếm tìm công lý đầy đau đớn của Cristina Rivera Garza.",
+    "Qua những tác phẩm đã và sắp được Nhã Nam giới thiệu bằng tiếng Việt, trang này mời bạn đọc gặp năm tiếng nói rất khác nhau của văn học Mexico, trải dài từ những tên tuổi kinh điển của thế kỷ XX đến một trong những tác giả đương đại quan trọng hiện nay."
+  ],
+  "intro": [
+    "Năm tác giả trên không đại diện cho một trường phái duy nhất.",
+    "Carlos Fuentes đưa lịch sử và ký ức Mexico vào những cấu trúc tiểu thuyết táo bạo. Octavio Paz dùng thơ và tiểu luận để truy vấn căn tính. Alberto Ruy-Sánchez dựng nên Mogador, một địa lý tưởng tượng của cơ thể và ham muốn. Juan Villoro đi tự nhiên giữa báo chí, tiểu thuyết và văn chương cho người trẻ. Cristina Rivera Garza đưa văn chương bước vào địa hạt của lưu trữ, ký ức, bạo lực giới và công lý.",
+    "Đặt cạnh nhau, họ cho thấy văn chương Mexico rộng hơn nhiều so với hình dung quen thuộc về “văn học Mỹ Latin”: một nền văn chương liên tục tìm cách đọc lại lịch sử, thử nghiệm hình thức và đặt câu hỏi về con người Mexico trong một thế giới luôn biến đổi."
+  ],
+  "closing": "Nhân dịp Lễ hội Văn hóa Thế giới tại Hà Nội 2026, tuyển chọn này đặt văn chương bên cạnh những hình thức giao lưu văn hóa khác: như một cách đi vào một đất nước từ bên trong, qua ngôn ngữ, ký ức, ham muốn, lịch sử và những câu hỏi con người vẫn còn đang đặt ra cho chính mình."
+}

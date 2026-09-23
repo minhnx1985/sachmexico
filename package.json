@@ -1,0 +1,14 @@
+{
+  "name": "mexico-qua-nhung-trang-sach",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/render.mjs && vite --host 127.0.0.1",
+    "build": "node scripts/render.mjs && vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "lint": "eslint src scripts/*.mjs",
+    "check": "node scripts/check.mjs"
+  },
+  "devDependencies": {"vite": "^7.1.0", "eslint": "^9.0.0", "@eslint/js": "^9.0.0", "globals": "^16.0.0"}
+}

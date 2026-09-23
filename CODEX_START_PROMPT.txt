@@ -1,0 +1,5 @@
+Read the root `AGENTS.md`, every file under `codex-pack/`, `source-assets/remote-assets.json`, and `reference-notes/research-content-pack.md`.
+Treat the Blueprint as pre-approved.
+Execute autonomously from source scan and asset materialization through implementation, browser QA, refinement and DONE.
+Do not stop for intermediate approval unless you encounter a Level-3 blocker.
+Return the Completion Report, screenshot paths and final Git commit hash.
