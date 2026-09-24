@@ -1,0 +1,278 @@
+{
+  "authors": [
+    {
+      "slug": "juan-villoro",
+      "name": "Juan Villoro",
+      "bio": "Born in Mexico City in 1956, Juan Villoro is a writer, journalist and one of the most versatile voices in contemporary Mexican literature. His work spans novels, short stories, plays, essays, journalism and writing for children. He has received literary and journalism awards in Mexico, Spain and Latin America.",
+      "tagline": "A Mexican writer invites readers into a world where books have lives of their own.",
+      "theme": "Books & adventures",
+      "door": "Enter the library",
+      "years": "Born in 1956",
+      "credential": "Writer · Journalist",
+      "portrait": "/assets/juan-villoro.webp",
+      "source": "https://www.jvilloro.com/",
+      "credit": "Official author website; photographer unconfirmed",
+      "motif": "books"
+    },
+    {
+      "slug": "octavio-paz",
+      "name": "Octavio Paz",
+      "bio": "Octavio Paz (1914–1998) was a Mexican poet, essayist and diplomat, and a major figure in twentieth-century Spanish-language literature. He spent many years in the Mexican diplomatic service, including a term as ambassador to India. He was awarded the Nobel Prize in Literature in 1990.",
+      "tagline": "To see Mexico from within, this is one of the books to turn to.",
+      "theme": "Identity & solitude",
+      "door": "Explore identity",
+      "years": "1914–1998",
+      "credential": "Nobel Prize in Literature 1990",
+      "portrait": "/assets/octavio-paz.webp",
+      "source": "https://www.gaceta.unam.mx/la-voz-temprana-de-octavio-paz/",
+      "credit": "Nguồn ảnh: Gaceta UNAM; tác giả ảnh cần xác minh",
+      "motif": "maze"
+    },
+    {
+      "slug": "alberto-ruy-sanchez",
+      "name": "Alberto Ruy-Sánchez",
+      "bio": "Born in Mexico City in 1951, Alberto Ruy-Sánchez is a novelist, poet, essayist and editor. With Margarita de Orellana, he leads the cultural project Artes de México. His Quinteto de Mogador turns the city of Mogador into a geography of desire, the body, memory and the senses. In 2017 he received Mexico’s Premio Nacional de Artes y Literatura.",
+      "tagline": "Mogador: a geography of desire, where the body, memory and the elements find their voices.",
+      "theme": "Desire & the senses",
+      "door": "Follow the senses",
+      "years": "Born in 1951",
+      "credential": "Premio Nacional de Artes y Literatura 2017",
+      "portrait": "/assets/alberto-ruy-sanchez.webp",
+      "source": "https://www.albertoruysanchez.com/",
+      "credit": "Nina Subin",
+      "motif": "mogador"
+    },
+    {
+      "slug": "carlos-fuentes",
+      "name": "Carlos Fuentes",
+      "bio": "Carlos Fuentes (1928–2012) was a Mexican novelist, essayist and diplomat, and a central figure in the Latin American Boom. A member of El Colegio Nacional and a former Mexican ambassador to France, he received the Cervantes Prize in 1987.",
+      "tagline": "A dark house, a young woman, a past that keeps repeating itself.",
+      "theme": "Memory & shadows",
+      "door": "Open a door to memory",
+      "years": "1928–2012",
+      "credential": "Premio Cervantes 1987",
+      "portrait": "/assets/carlos-fuentes.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:Carlos_Fuentes.jpg",
+      "credit": "Gustavo Benítez / Presidencia de la República; Commons records public-domain release",
+      "motif": "gothic"
+    },
+    {
+      "slug": "cristina-rivera-garza",
+      "name": "Cristina Rivera Garza",
+      "bio": "Cristina Rivera Garza is a Mexican writer, poet and scholar who teaches at the University of Houston. Her work crosses the boundaries between fiction, history, documents, memory and formal experimentation. A MacArthur Fellow and two-time recipient of the Sor Juana Inés de la Cruz Prize, she won the 2024 Pulitzer Prize for Memoir or Autobiography for Liliana’s Invincible Summer.",
+      "tagline": "Restoring Liliana’s voice, friendships and hopes.",
+      "theme": "Archives & justice",
+      "door": "Remember a life",
+      "years": "Contemporary literature",
+      "credential": "Pulitzer Prize 2024 · Memoir or Autobiography",
+      "portrait": "/assets/cristina-rivera-garza.webp",
+      "source": "https://editions-globe.com/rivera-garza-cristina/",
+      "credit": "Source page indicates editorial author portrait; verify photographer credit before production use.",
+      "motif": "archive"
+    }
+  ],
+  "books": [
+    {
+      "slug": "cuon-sach-hoang-da",
+      "authorSlug": "juan-villoro",
+      "title": "Cuốn sách Hoang dã",
+      "titleOriginal": "El libro salvaje",
+      "titleViStatus": "official",
+      "status": "active",
+      "cover": "/assets/cuon-sach-hoang-da.webp",
+      "edition": "Vietnamese edition cover",
+      "translator": "Lê Mạnh Thắng",
+      "publisher": "Nhã Nam / Writers’ Association Publishing House",
+      "yearVi": 2025,
+      "purchaseUrl": "https://nhanam.vn/cuon-sach-hoang-da",
+      "description": [
+        "Thirteen-year-old Juan is struggling with his parents’ separation when a summer at his uncle Tito’s book-filled house turns into an adventure. Here, books move by themselves, hide from readers and seem to lead secret lives.",
+        "Juan discovers the existence of El libro salvaje: a book that has never been read and will reveal itself only to the reader it chooses. His search takes him deep into a wondrous world of libraries, friendship and reading, while helping him face the changes in his own life."
+      ],
+      "editorialReviewRequired": false
+    },
+    {
+      "slug": "me-cung-co-doc",
+      "authorSlug": "octavio-paz",
+      "title": "Mê cung cô độc",
+      "titleOriginal": "El laberinto de la soledad",
+      "titleViStatus": "official",
+      "status": "active",
+      "cover": "/assets/me-cung-co-doc.webp",
+      "edition": "Vietnamese edition cover",
+      "translator": "Vũ Phi Long",
+      "publisher": "Nhã Nam / Writers’ Association Publishing House",
+      "yearVi": 2025,
+      "purchaseUrl": "https://nhanam.vn/me-cung-co-doc",
+      "description": [
+        "Mexico is shaped by layers of history: Indigenous worlds, the Spanish conquest, colonial rule, revolution and modernisation. Octavio Paz explores these layers to ask a more difficult question: what traces have they left in the ways Mexicans see themselves and the world?",
+        "El laberinto de la soledad brings cultural history, philosophy and literary essay together. Writing about solitude, masks, festivals, death, conquest and revolution, Paz examines the contradictions that shape Mexican identity."
+      ],
+      "editorialReviewRequired": false
+    },
+    {
+      "slug": "ten-cua-khi-troi",
+      "authorSlug": "alberto-ruy-sanchez",
+      "title": "Tên của khí trời",
+      "titleOriginal": "Los nombres del aire",
+      "titleViStatus": "official",
+      "status": "historical",
+      "cover": "/assets/ten-cua-khi-troi.webp",
+      "edition": "Vietnamese edition cover",
+      "translator": null,
+      "publisher": null,
+      "yearVi": null,
+      "purchaseUrl": null,
+      "description": [
+        "In the port city of Mogador, Fatma watches the world from her window and begins to recognise the elusive stirrings of desire. Around her, the city becomes a labyrinth of longing, memory, music and images."
+      ],
+      "editorialReviewRequired": false,
+      "coverSourceLocal": "TEN CUA KHI TROI.jpg"
+    },
+    {
+      "slug": "doi-moi-cua-nuoc",
+      "authorSlug": "alberto-ruy-sanchez",
+      "title": "Đôi môi của nước",
+      "titleOriginal": "En los labios del agua",
+      "titleViStatus": "official",
+      "status": "historical",
+      "cover": "/assets/doi-moi-cua-nuoc.webp",
+      "edition": "Vietnamese edition cover",
+      "translator": null,
+      "publisher": null,
+      "yearVi": null,
+      "purchaseUrl": null,
+      "description": [
+        "A Mexican man of Arab descent follows the traces of an ancient calligrapher and lost writings about desire. His search leads through dreams, encounters with women and a world in which the body becomes a compass."
+      ],
+      "editorialReviewRequired": false,
+      "coverSourceLocal": "DOI MOI CUA NUOC.jpg"
+    },
+    {
+      "slug": "lan-da-cua-dat",
+      "authorSlug": "alberto-ruy-sanchez",
+      "title": "Làn da của đất",
+      "titleOriginal": "Los jardines secretos de Mogador",
+      "titleViStatus": "official",
+      "status": "historical",
+      "cover": "/assets/lan-da-cua-dat.webp",
+      "edition": "Vietnamese edition cover",
+      "translator": null,
+      "publisher": null,
+      "yearVi": null,
+      "purchaseUrl": null,
+      "description": [
+        "In the world of Mogador, desire takes the form of earth, gardens, fragrance and touch. The narrator seeks out the city’s secret gardens, where each landscape offers another way to name what people long for."
+      ],
+      "editorialReviewRequired": true,
+      "coverSourceLocal": "Lan da cua dat.jpg"
+    },
+    {
+      "slug": "nang-aura",
+      "authorSlug": "carlos-fuentes",
+      "title": "Nàng Aura",
+      "titleOriginal": "Aura",
+      "titleViStatus": "official",
+      "status": "historical",
+      "cover": "/assets/nang-aura.webp",
+      "edition": "Vietnamese edition cover",
+      "translator": "Phạm Triệu Lập",
+      "publisher": "Nhã Nam / Literature Publishing House",
+      "yearVi": 2016,
+      "purchaseUrl": null,
+      "description": [
+        "Felipe Montero, a young historian in need of work, finds an advertisement that seems to have been written for him. It leads him to the dark house of the widow Consuelo, who hires him to edit her late husband’s memoirs. There he meets Aura, the beautiful young niece who lives with her.",
+        "The boundaries between past and present, youth and age, desire and obsession begin to dissolve. Written in the second person, Aura is a compact Gothic novella about memory, identity and the enduring power of the past."
+      ],
+      "editorialReviewRequired": false
+    },
+    {
+      "slug": "liliana",
+      "authorSlug": "cristina-rivera-garza",
+      "title": "Liliana’s Invincible Summer",
+      "titleOriginal": "A Sister’s Search for Justice",
+      "titleViStatus": "none",
+      "status": "coming-soon",
+      "cover": "/assets/liliana-invincible-summer.webp",
+      "edition": "English edition cover",
+      "translator": null,
+      "publisher": null,
+      "yearVi": null,
+      "purchaseUrl": null,
+      "description": [
+        "On 16 July 1990, twenty-year-old Liliana Rivera Garza was murdered. Nearly three decades later, her sister, the writer Cristina Rivera Garza, returns to Mexico City to search for the case file and piece together Liliana’s life.",
+        "Drawing on letters, notebooks, police files, family memories and the accounts of those who loved Liliana, Rivera Garza restores her sister’s voice, friendships, plans and interrupted youth. Liliana emerges as a person with a life of her own, beyond the label of a victim in a crime file.",
+        "Both a memoir of a sister and an inquiry into gender-based violence and the search for justice, the book won the 2024 Pulitzer Prize for Memoir or Autobiography."
+      ],
+      "editorialReviewRequired": false
+    }
+  ],
+  "press": [
+    {
+      "title": "An adventure in the world of books",
+      "outlet": "VnExpress",
+      "date": "21.05.2025",
+      "url": "https://vnexpress.net/phieu-luu-vao-the-gioi-sach-4887810.html",
+      "authorSlug": "juan-villoro",
+      "thumbnailStrategy": "book"
+    },
+    {
+      "title": "“Cuốn sách Hoang dã”: a pure heart matters more than an ocean of knowledge",
+      "outlet": "Tuổi Trẻ",
+      "date": "09.05.2025",
+      "url": "https://tuoitre.vn/cuon-sach-hoang-da-tam-long-trong-sang-quan-trong-hon-bien-tri-thuc-20250509182404466.htm",
+      "authorSlug": "juan-villoro",
+      "thumbnailStrategy": "author"
+    },
+    {
+      "title": "Launching the Vietnamese translation of Juan Villoro’s “Cuốn sách Hoang dã”",
+      "outlet": "Nhân Dân",
+      "date": "05.05.2025",
+      "url": "https://nhandan.vn/ra-mat-ban-dich-tieng-viet-tac-pham-noi-tieng-cuon-sach-hoang-da-cua-juan-villoro-post877318.html",
+      "authorSlug": "juan-villoro",
+      "thumbnailStrategy": "book"
+    },
+    {
+      "title": "Juan Villoro’s “Cuốn sách Hoang dã” published in Vietnam",
+      "outlet": "VOV",
+      "date": "06.05.2025",
+      "url": "https://vov.vn/van-hoa/cuon-sach-hoang-da-tac-pham-cua-nha-van-juan-villoro-xuat-ban-tai-viet-nam-post1197085.vov",
+      "authorSlug": "juan-villoro",
+      "thumbnailStrategy": "author"
+    },
+    {
+      "title": "Understanding women’s desires",
+      "outlet": "Tuổi Trẻ",
+      "date": "28.05.2012",
+      "url": "https://tuoitre.vn/muon-thau-hieu-khat-vong-cua-phu-nu-493773.htm",
+      "authorSlug": "alberto-ruy-sanchez",
+      "thumbnailStrategy": "author"
+    },
+    {
+      "title": "A conversation with Mexican writer Alberto Ruy Sánchez",
+      "outlet": "VOV5",
+      "date": "2012",
+      "url": "https://vovworld.vn/vi-VN/tap-chi-van-nghe/giao-luu-voi-nha-van-mexico-alberto-ruy-sanchez-87190.vov",
+      "authorSlug": "alberto-ruy-sanchez",
+      "thumbnailStrategy": "author"
+    },
+    {
+      "title": "Alberto Ruy Sánchez’s “Tên của khí trời”",
+      "outlet": "Thanh Niên",
+      "date": "09.08.2009",
+      "url": "https://thanhnien.vn/ten-cua-khi-troi-cua-alberto-ruy-sanchez-185185220.htm",
+      "authorSlug": "alberto-ruy-sanchez",
+      "thumbnailStrategy": "book"
+    }
+  ],
+  "hero": [
+    "Mexico has many faces in literature: Octavio Paz’s questions about national identity; Carlos Fuentes’s seductive, haunted house; Alberto Ruy-Sánchez’s city of desire and the senses; Juan Villoro’s library where books choose their readers; and Cristina Rivera Garza’s painful search for justice.",
+    "Through works already available or forthcoming in Vietnamese from Nhã Nam, we invite readers to meet five very different voices in Mexican literature, from twentieth-century classics to one of today’s important contemporary writers."
+  ],
+  "intro": [
+    "These five authors do not belong to a single literary school.",
+    "Carlos Fuentes brings Mexican history and memory into bold fictional forms. Octavio Paz explores identity through poetry and essays. Alberto Ruy-Sánchez imagines Mogador as a geography of the body and desire. Juan Villoro moves between journalism, fiction and writing for young readers. Cristina Rivera Garza takes literature into archives, memory, gender-based violence and justice.",
+    "Together, they reveal a literature that continually rereads history, experiments with form and asks what it means to be Mexican in a changing world."
+  ],
+  "closing": "Created on the occasion of the World Culture Festival in Hanoi 2026, this selection places literature alongside other forms of cultural exchange: a way to enter a country from within, through language, memory, desire, history and the questions we continue to ask of ourselves."
+}

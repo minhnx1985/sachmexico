@@ -1,6 +1,6 @@
 # Mexico qua những trang sách
 
-Vietnamese literary landing page for a five-author, seven-book selection, prepared around **Lễ hội Văn hóa Thế giới tại Hà Nội 2026**. This is not the official festival website.
+Bilingual Vietnamese/English literary landing page for a five-author, seven-book selection, prepared around **Lễ hội Văn hóa Thế giới tại Hà Nội 2026**. This is not the official festival website.
 
 ## Run
 
@@ -15,11 +15,15 @@ npm run check
 npm run preview
 ```
 
-`npm run build` renders semantic HTML from `src/content.json` using `scripts/render.mjs`, then bundles the minimal dialog/filter enhancement through Vite. Deployable static output is in `dist/`. No backend, CMS, database, remote fonts, or image hotlinks. This handoff is a local working build, not a production publication.
+`npm run build` renders semantic HTML from `src/content.json` and `src/content.en.json` using `scripts/render.mjs`, then bundles the minimal dialog/filter enhancement through Vite. Deployable static output is in `dist/`. No backend, CMS, database, remote fonts, or image hotlinks. This handoff is a local working build, not a production publication.
 
 ## Editing
 
-- `src/content.json`: authors, books, status, descriptions, press articles.
+- `src/content.json`: Vietnamese authors, books, status, descriptions, press articles.
+- `src/content.en.json`: matching English editorial content; keep slugs, assets and availability in sync.
+- `src/ui.en.json`: English interface and accessibility strings.
+- `scripts/localize.mjs`: build-time interface translation.
+- `/` and `/en/`: independently rendered pages with a VI/EN switch that preserves section anchors.
 - `scripts/render.mjs`: semantic HTML sections and native dialog templates.
 - `src/style.css`: responsive editorial design and reduced-motion rules.
 - `src/main.js`: dialog and gallery filter interactions.
@@ -28,7 +32,7 @@ npm run preview
 - `public/assets/`: locally optimized WebP display copies; source originals remain in `source-assets/`.
 - `reports/`: browser QA evidence and completion report.
 
-`index.html` is generated and committed for inspectability; edit the renderer/content rather than the generated file.
+`index.html` and `en/index.html` are generated and committed for inspectability; edit the renderer/content rather than the generated file.
 
 ## Publication handoff
 

@@ -36,6 +36,13 @@ document.querySelectorAll('[data-filter]').forEach(button => {
       card.hidden = filter !== 'all' && card.dataset.status !== filter;
       if (!card.hidden) count++;
     });
-    document.getElementById('filter-result').textContent = `${count} tác phẩm`;
+    document.getElementById('filter-result').textContent = document.documentElement.lang === 'en' ? `${count} ${count === 1 ? 'book' : 'books'}` : `${count} tác phẩm`;
+  });
+});
+
+// Keep the current reading position when changing language.
+document.querySelectorAll('[data-language]').forEach(link => {
+  link.addEventListener('click', () => {
+    link.href = `${link.dataset.language === 'en' ? '/en/' : '/'}${window.location.hash}`;
   });
 });

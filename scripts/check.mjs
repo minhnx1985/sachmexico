@@ -14,3 +14,20 @@ for(const match of html.matchAll(/(?:src|href)="(\/[^"#]+)"/g))await fs.access(`
 for(const match of html.matchAll(/href="#([^"]+)"/g))assert.ok(html.includes(`id="${match[1]}"`),`Broken anchor ${match[1]}`);
 assert.ok(!/<img[^>]+src="https?:/.test(html));
 console.log('PASS: content contract, local assets, anchor targets, purchase restrictions, editorial flag, static output.');
+const english=JSON.parse(await fs.readFile('src/content.en.json','utf8'));
+const en=await fs.readFile('dist/en/index.html','utf8');
+assert.deepEqual(english.authors.map(a=>a.slug),authors.map(a=>a.slug));
+assert.deepEqual(english.books.map(b=>[b.slug,b.cover,b.purchaseUrl,b.status]),books.map(b=>[b.slug,b.cover,b.purchaseUrl,b.status]));
+assert.ok(en.includes('<html lang="en">'));
+assert.ok(en.includes('Mexico through books'));
+assert.ok(en.includes('This is not the official festival website.'));
+assert.ok(en.includes('Sources &amp; image credits'));
+assert.ok(en.includes('Vietnamese covers supplied by Nhã Nam'));
+assert.ok(html.includes('chúng tôi mời bạn đọc'));
+for(const output of [html,en]){
+  assert.ok(!output.includes('Chưa có liên kết phát hành hiện hành được xác nhận.'));
+  assert.ok(!output.includes('người dùng cung cấp'));
+  assert.ok(output.includes('href="/en/"'));
+  for(const b of books)assert.ok(output.includes(`id="detail-${b.slug}"`));
+}
+console.log('PASS: bilingual routes, content parity, copy edits, metadata and credits.');

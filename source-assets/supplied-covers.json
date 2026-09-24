@@ -11,7 +11,7 @@
     "sha256": "f9e74772681352ce152442eeb9f5ef8c49da9c24f89518f034445e91178ec131",
     "source_type": "user_supplied",
     "rights_status": "user_supplied_for_working_build",
-    "credit_note": "Bìa tiếng Việt do người dùng cung cấp; Nhã Nam / NXB Hội Nhà văn"
+    "credit_note": "Bìa tiếng Việt do Nhã Nam cung cấp"
   },
   {
     "id": "cover-doi-moi-cua-nuoc",
@@ -25,7 +25,7 @@
     "sha256": "f9b72fb3aa876e9a58d1997a670168cb43e804dd369208cb6225d90f39d5c402",
     "source_type": "user_supplied",
     "rights_status": "user_supplied_for_working_build",
-    "credit_note": "Bìa tiếng Việt do người dùng cung cấp; Nhã Nam / NXB Hội Nhà văn"
+    "credit_note": "Bìa tiếng Việt do Nhã Nam cung cấp"
   },
   {
     "id": "cover-lan-da-cua-dat",
@@ -39,6 +39,6 @@
     "sha256": "01e17dafa8c826b2325e73369f307aab4e4b63153b15be6240723abaee4babad",
     "source_type": "user_supplied",
     "rights_status": "user_supplied_for_working_build",
-    "credit_note": "Bìa tiếng Việt do người dùng cung cấp; Nhã Nam / NXB Hội Nhà văn"
+    "credit_note": "Bìa tiếng Việt do Nhã Nam cung cấp"
   }
 ]

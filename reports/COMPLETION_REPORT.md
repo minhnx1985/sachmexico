@@ -76,4 +76,15 @@ Thumbnails reuse local author portraits or covers; their illustrative status is 
 
 - Branch: `main` (new repository; workspace initially had no Git repository).
 - Final delivery commit is the commit containing this report; exact hash returned in the final response.
-- Push: not pushed; no remote configured.
+- Authorized GitHub destination: `https://github.com/minhnx1985/sachmexico.git`. Push verification is returned with the delivery commit.
+
+## BILINGUAL UPDATE — 24 SEPTEMBER 2026
+
+- Changed the invitation to “chúng tôi mời bạn đọc”.
+- Historical availability copy now ends after “Tác phẩm thuộc danh mục đã được Nhã Nam giới thiệu.”
+- Consolidated the three supplied Vietnamese cover credits to “Bìa tiếng Việt do Nhã Nam cung cấp”.
+- Added a full English edition at `/en/`, including biographies, book descriptions, navigation, dialogs, filters, metadata, accessibility labels and credits. Vietnamese edition titles remain unchanged to match their covers; translated press titles link to articles explicitly identified as Vietnamese.
+- VI/EN links preserve the current section anchor. Both pages are prerendered in the production build.
+- English browser QA: seven dialogs, two purchase links, filters 7/2/4/1, Enter/Tab/Shift+Tab/Escape and focus restoration passed. VI/EN navigation passed in both directions.
+- English responsive QA: no horizontal overflow at 360, 390, 768, 1024 and 1440 px. Desktop/mobile hero layouts visually inspected.
+- Screenshots: `screenshots/en-desktop-1440-full.png` and `screenshots/en-mobile-390-full.png`.
