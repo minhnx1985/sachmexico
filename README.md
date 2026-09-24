@@ -43,3 +43,7 @@ npm run preview
 5. Set the real domain/canonical and social-image URL only when a publication destination exists. Current title, description, Open Graph text, Vietnamese language, and favicon are included.
 
 The only purchase links are the verified Nhã Nam pages for **Cuốn sách Hoang dã** and **Mê cung cô độc**. Historical titles do not imply current stock.
+
+## Visitor analytics
+
+Vercel Web Analytics is initialized once by the shared `src/main.js` entry on both `/` and `/en/`. Vite selects development mode locally and production mode in deployed builds. Enable Web Analytics in the Vercel project dashboard and deploy the latest commit to begin recording visits.

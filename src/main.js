@@ -1,3 +1,8 @@
+import { inject } from '@vercel/analytics';
+
+// Vite provides the mode explicitly; local visits stay in development mode.
+inject({ mode: import.meta.env.PROD ? 'production' : 'development' });
+
 const dialog = document.querySelector('dialog');
 let opener;
 document.querySelectorAll('[data-book]').forEach(button => {
